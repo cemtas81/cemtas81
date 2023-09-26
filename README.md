@@ -5,6 +5,6 @@
 </div>
 ---
 
-### :fire: My Stats :
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cemtas81&theme=synthwave)](https://git.io/streak-stats)
