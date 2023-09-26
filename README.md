@@ -5,6 +5,5 @@
 </div>
 ---
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=cemtas81&theme=synthwave)](https://git.io/streak-stats)
+### :fire: My Stats :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemtas81 &theme=radical)
