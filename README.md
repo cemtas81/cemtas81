@@ -6,4 +6,4 @@
 ---
 
 ### :fire: My Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemtas81 &theme=radical)
+![CEMTAS81 github stats](https://github-readme-stats.vercel.app/api?username=cemtas81&show_icons=true&hide_border=true)
