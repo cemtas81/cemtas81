@@ -5,5 +5,4 @@
 </div>
 ---
 
-### :fire: My Stats :
-![CEMTAS81 github stats](https://github-readme-stats.vercel.app/api?username=cemtas81&show_icons=true&hide_border=true)
+### :fire: 
