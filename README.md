@@ -35,6 +35,7 @@ Side projects and prototypes — see the note above about commercial work.
 
 | Repository | Highlights |
 |---|---|
+| [DOTS Crowd Showcase](https://github.com/cemtas81/DotsCrowdShowcase) | 200,000 enemies surround the player at 60+ fps (1% low) on a laptop · Unity DOTS (ECS, Job System, Burst) · context steering on a spatial hash grid · pooled projectiles, zero structural changes at runtime |
 | [3DArcher Multiplayer](https://github.com/cemtas81/3DArcher-Multiplayer-using-netcode-relay) | Netcode for GameObjects (NGO) · Unity Relay / Lobby · server-side arrow physics with client-side visual interpolation · ballistic trajectory preview · networked object pooling |
 | [2D RTS](https://github.com/cemtas81/2dRts) | Heap-based A* pathfinding · unit selection and move/attack orders · grid building placement · object pooling |
 | [Color Maze](https://github.com/cemtas81/ColorMaze) | 3D maze puzzle built for PC/Steam (unreleased) · data-driven levels · time bonus/penalty mechanics · PlayFab login and leaderboard · skin shop |
